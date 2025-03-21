@@ -20,13 +20,13 @@ Data containing 4900 top movies from IMDB
 5️) Orchestrate with LangChain – LangChain facilitates seamless interaction between OpenAI, Pinecone, and the user query.  
 
 **Tech Stack & Tools 🛠**  
-OpenAI GPT-3.5-Turbo – Generates natural language responses.  
-OpenAI text-embedding-ada-002 – Converts movie descriptions into vector embeddings.  
-Pinecone – Stores and retrieves embeddings for relevant context.  
-LangChain – Handles orchestration between the LLM, vector database, and retrieval pipeline.  
-Pandas & Python – For preprocessing and structuring the IMDB dataset.  
+* OpenAI GPT-3.5-Turbo – Generates natural language responses.  
+* OpenAI text-embedding-ada-002 – Converts movie descriptions into vector embeddings.  
+* Pinecone – Stores and retrieves embeddings for relevant context.  
+* LangChain – Handles orchestration between the LLM, vector database, and retrieval pipeline.  
+* Pandas & Python – For preprocessing and structuring the IMDB dataset.  
 
-**Use Cases 🎯**
+**Use Cases 🎯**  
 ✔ Find movie recommendations based on descriptions  
 ✔ Retrieve factual movie information with context  
 ✔ Answer questions about movie genres and storylines  
