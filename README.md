@@ -1,6 +1,8 @@
 # Movie-Summary-with-RAG
 Using Retrieval-Augmented Generation to Search a Movie Database Using Langchain, OpenAI and Pinecone
 
+![Alt Text](https://framerusercontent.com/images/qtQMAzQadKJO9iaAe0MsjIcLNg.jpg)
+
 **Overview**
 This project implements Retrieval-Augmented Generation (RAG) to build a question-answering bot for movie-related queries. By leveraging large language models (LLMs) along with vector search, we enhance the ability of the model to provide factual responses without requiring fine-tuning or retraining.
 
