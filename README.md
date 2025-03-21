@@ -10,6 +10,7 @@ Instead of relying solely on pre-trained knowledge, the model retrieves relevant
 Data containing 4900 top movies from IMDB
 
 **How It Works 🚀**
+
 1️⃣ Extract & Process IMDB Data – Movie descriptions are extracted and preprocessed from IMDB.
 2️⃣ Create Vector Embeddings – We generate vector embeddings using OpenAI's text-embedding-ada-002 model.
 3️⃣ Store & Search in Pinecone – These embeddings are stored in Pinecone, a high-performance vector database, enabling semantic search.
