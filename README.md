@@ -17,7 +17,7 @@ Data containing 4900 top movies from IMDB
 4️) Generate Answers with GPT-3.5 – When a user asks a movie-related question, the system retrieves relevant embeddings and provides them as context to OpenAI’s GPT-3.5-Turbo, enhancing the accuracy of responses.  
 5️) Orchestrate with LangChain – LangChain facilitates seamless interaction between OpenAI, Pinecone, and the user query.  
 
-**Tech Stack & Tools 🛠**
+**Tech Stack & Tools 🛠**  
 OpenAI GPT-3.5-Turbo – Generates natural language responses.  
 OpenAI text-embedding-ada-002 – Converts movie descriptions into vector embeddings.  
 Pinecone – Stores and retrieves embeddings for relevant context.  
