@@ -1,4 +1,4 @@
-# Movie-Summary-with-RAG
+# Movie Summary with RAG
 Using Retrieval-Augmented Generation to Search a Movie Database Using Langchain, OpenAI and Pinecone
 
 ![Alt Text](https://framerusercontent.com/images/qtQMAzQadKJO9iaAe0MsjIcLNg.jpg)
